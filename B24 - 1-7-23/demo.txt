@@ -1,4 +1,4 @@
-[a, a, 3]
-[d, d, 3]
-[a, a, 2]
-[d, d, 3]
+[a,  Textbook , 2]
+[Conan,  Thriller book, 18000]
+[Pokemon,  Comic, 23000]
+[a,  Textbook , 2]
